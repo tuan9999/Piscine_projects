@@ -1,0 +1,1 @@
+grep -i -- 'nicolas\tbauer' phonebook.txt | cut -d'	' -f4

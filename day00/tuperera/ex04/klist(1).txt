@@ -1,0 +1,12 @@
+Credentials cache: API:61829
+        Principal: tuperera@CODAM.NL
+    Cache version: 0
+
+Server: krbtgt/CODAM.NL@CODAM.NL
+Client: tuperera@CODAM.NL
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 313
+Auth time:  Aug  5 15:23:39 2019
+End time:   Aug 12 15:23:26 2019
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless

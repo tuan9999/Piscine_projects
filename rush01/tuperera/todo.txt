@@ -1,0 +1,10 @@
+Functions:
+
+ft_atoi
+
+Samael: 2 functions
+create a function that takes a position in the array and finds if that number exists in that row.
+create a function that takes a position in the array and finds if that number exists in that column.
+
+thimo: 1 function
+create a function that checks whether a given number arr[i][j] exists in a 3 by 3 grid
